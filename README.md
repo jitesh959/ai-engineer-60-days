@@ -1,1 +1,1 @@
-# ai-engineer-60-days
+# ai-engineer-in-60-days
