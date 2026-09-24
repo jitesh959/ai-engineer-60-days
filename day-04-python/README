@@ -6,14 +6,22 @@ Topics learned:
 * Lists
 * Dictionaries
 * Tuples
-* Working with different Python data structures
-* Storing and accessing data
-* Basic differences between data structures
+* Creating different data structures
+* Storing data in different data structures
+* Accessing data from different data structures
+
+Practice Projects:
+
+* Set Practice
+* List Practice
+* Dictionary Practice
+* Tuple Practice
 
 Practice:
 
-* Created and worked with sets
-* Created and worked with lists
-* Created and worked with dictionaries
-* Created and worked with tuples
-* Practiced storing and accessing different types of data
+* Creating and using sets
+* Creating and using lists
+* Creating and using dictionaries
+* Creating and using tuples
+* Storing different types of data
+* Accessing and working with data structures
